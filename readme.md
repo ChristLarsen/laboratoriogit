@@ -20,6 +20,7 @@ Pasos realizados:
 - Creo otra rama _otherdevelopment_
 - Me cambio a ella, y modifico README.MD
 - Hago _git commit_ y subo cambios a "Github"
+- Vuelvo a rama principal, hago merge.
 
 
 
